@@ -1,0 +1,38 @@
+body {
+    background-color: #d8d9c7;
+    padding: 30px;
+}
+
+h1, h2 {
+    color: #22311D;
+}
+
+h1 {
+    text-align: center;
+}
+
+p.image {
+    text-align: center;
+}
+
+p, li, table {
+    font-size: 1.5em;
+}
+
+th, td {
+    border: #1e2414 solid 3px;
+    padding: 8px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+a {
+    color: #384f5a;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #587291;
+}

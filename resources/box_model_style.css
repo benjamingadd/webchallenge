@@ -1,0 +1,59 @@
+/*
+  white: #FFFFFF (background)
+  blue: #0073C3 (accent 1)
+  teal: #E67300 (accent 2)
+*/
+
+h1,
+h2,
+h3 {
+  color: #0073C3;
+}
+
+h1 {
+  text-align: center;
+}
+
+th,
+td {
+  border: 2px solid #C35000;
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #0073C3;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C35000;
+}
+
+p.styled {
+  background-color: #0073C3;
+  color: #FFFFFF;
+  width: 300px;
+  padding: 20px;
+  border: 10px double #C35000;
+  margin: 10px;
+}
+
+div.styled {
+
+  background-color: #0073C3;
+  width: 646px;
+  padding: 20px;
+  border: 10px solid #C35000;
+  border-style: dashed;
+  margin: 30px;
+}
+
+body {
+  padding: 20px;
+  font-size: 20px;
+}
